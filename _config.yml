@@ -1,0 +1,16 @@
+name: Lsʌss
+description: Cybersecurity Research
+meta_description: "Cybersecurity Research"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: '/'
+domain_name: 'https://lsass.io'
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'https://lsass.io'
+author:         'Lsʌss'
