@@ -13,7 +13,7 @@ plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: "lsass.io/blog"
-author: "Your Name"
+author: "Lucas Souza"
 
 # Disqus config
 disqus-shortname: ""
