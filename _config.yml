@@ -7,10 +7,13 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /blog
-domain_name: 'lsass.io'
-google_analytics: 'UA-XXXXXXXX-X'
-gems: [jekyll-paginate]
+domain_name: "http://yourblog-domain.com"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'https://lsass.io/blog'
-author:         'Lsʌss'
+url: ""
+author: "Your Name"
+
+# Disqus config
+disqus-shortname: ""
