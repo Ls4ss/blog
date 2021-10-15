@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: '/blog'
-domain_name: 'https://lsass.io'
+baseurl: '/'
+domain_name: ''
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
