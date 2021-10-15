@@ -12,5 +12,5 @@ google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'https://lsass.io'
+url:            'https://lsass.io/blog'
 author:         'Lsʌss'
