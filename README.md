@@ -1,1 +1,1 @@
-# lsass.io/blog
+# https://lsass.io/blog/
