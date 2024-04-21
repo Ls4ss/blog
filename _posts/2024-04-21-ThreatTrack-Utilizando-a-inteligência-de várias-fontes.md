@@ -2,8 +2,8 @@
 layout: post
 title:  "ThreatTrack - Utilizando a inteligência de várias fontes"
 date:   2024-04-21 14:00:00
-cover: /blog/assets/images/posts/ThreatTrack_Flow.gif
-categories: CVE
+cover: /blog/assets/images/posts/.gif
+categories: tool
 ---
 
 #### ThreatTrack
