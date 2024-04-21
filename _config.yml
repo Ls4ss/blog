@@ -1,4 +1,4 @@
-name: "Lsʌss - Security Lab"
+name: "Ls4ss - Bl0g"
 description: "by: Lucas S."
 meta_description: "by: Lucas S."
 
@@ -7,13 +7,13 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
-domain_name: "lsass.io/blog"
+domain_name: "ls4ss.me.log.br/blog/"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: "lsass.io/blog"
-author: "Lucas Souza"
+url: "ls4ss.me.log.br/blog/"
+author: "Lucas S."
 
 # Disqus config
 disqus-shortname: ""
