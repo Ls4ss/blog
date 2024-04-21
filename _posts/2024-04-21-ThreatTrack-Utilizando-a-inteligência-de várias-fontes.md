@@ -16,7 +16,7 @@ Este projeto em Python tem como objetivo fornecer uma ferramenta abrangente para
 + Identificação de CVE's com base nas versões de tecnologias mapeadas pelo Shodan.
 + Consulta de CVE's nas fontes de dados: NVD, ExploitDB e GitHub.
      
-![alt text](https://raw.githubusercontent.com/Ls4ss/blog/main/assets/images/posts/ThreatTrack_Flow.gif)
+![alt text](https://raw.githubusercontent.com/Ls4ss/blog/main/assets/images/posts/ThreatTrack_Flo.gif)
 
 # Building Payload
 
