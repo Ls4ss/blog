@@ -1,1 +1,1 @@
-# https://lsass.me/blog/
+# https://me.log.br
