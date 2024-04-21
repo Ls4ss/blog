@@ -1,1 +1,1 @@
-# https://me.log.br
+# https://me.log.br/blog
