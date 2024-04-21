@@ -30,7 +30,7 @@ Utlizando os parâmetros **host** ou **domain** podemos fornecer para a ferramen
 
         pip3 install -r requirements.txt
         
-#### Atualize a base de dados de exploits ao instalar e sempre que necessário
+**Atualize a base de dados de exploits ao instalar e sempre que necessário**
 
         pytho3 ThreatTrack.py --xdbupdate
 
