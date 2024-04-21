@@ -20,7 +20,7 @@ Além disso, ele se integra aos bancos de dados do NVD (National Vulnerability D
 
 #### Fluxo de consulta de dados da ferramenta
 
-![alt text](https://raw.githubusercontent.com/Ls4ss/blog/main/assets/images/posts/ThreatTrack_Flo.gif)
+![alt text](https://raw.githubusercontent.com/Ls4ss/blog/main/assets/images/posts/ThreatTrack_Flow.gif)
 
 # Building Payload
 
