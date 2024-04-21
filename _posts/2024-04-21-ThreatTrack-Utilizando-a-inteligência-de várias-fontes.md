@@ -20,6 +20,8 @@ Além disso, ele se integra aos bancos de dados do NVD (National Vulnerability D
 
 #### Fluxo de consulta de dados da ferramenta
 
+Utlizando os parâmetros ####host ou ####domain podemos fornecer para a ferramenta um endereço IP ou um domínio para que a busca inicie no Shodan, também podemos utilizar a opção ####file para fornecer uma lista de IPs ou domínios.
+
 ![alt text](https://raw.githubusercontent.com/Ls4ss/blog/main/assets/images/posts/ThreatTrack_Flow.gif)
 
 # Building Payload
