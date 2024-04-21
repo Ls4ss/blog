@@ -35,10 +35,10 @@ Utlizando os parâmetros **host** ou **domain** podemos fornecer para a ferramen
         pytho3 ThreatTrack.py --xdbupdate
 
 Observe atentamente o **help** da ferramenta, ela fornece um guia bem detalhado das diversas opções presentas na ferramenta, como por exemplo, a possíbilidade de se utilizar filtros do Shodan e as opções de consulta de dados sobre CVE's:
-        --nvd ( Busca por referências no NVD )
-        --cve ( Listar CVE's )
-        --cvss ( Detalhes da severidade das CVE's )
-        --git ( Busca por PoC's no GitHub )
-        --xdb ( Busca por Exploits no ExploitDB )
+     --nvd ( Busca por referências no NVD )
+     --cve ( Listar CVE's )
+     --cvss ( Detalhes da severidade das CVE's )
+     --git ( Busca por PoC's no GitHub )
+     --xdb ( Busca por Exploits no ExploitDB )
 
 ![alt text](https://raw.githubusercontent.com/Ls4ss/ThreatTrack/main/example/tt_help.png)
