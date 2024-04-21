@@ -32,7 +32,7 @@ Utlizando os parâmetros **host** ou **domain** podemos fornecer para a ferramen
         
 **Atualize a base de dados de exploits ao instalar e sempre que necessário**
 
-        pytho3 ThreatTrack.py --xdbupdate
+        python3 ThreatTrack.py --xdbupdate
 
 Observe atentamente o **help** da ferramenta, ela fornece um guia bem detalhado das diversas opções presentas na ferramenta, como por exemplo, a possíbilidade de se utilizar filtros do Shodan e as opções de consulta de dados sobre CVE's:
 
@@ -43,3 +43,5 @@ Observe atentamente o **help** da ferramenta, ela fornece um guia bem detalhado 
      --xdb ( Busca por Exploits no ExploitDB )
 
 ![alt text](https://raw.githubusercontent.com/Ls4ss/ThreatTrack/main/example/tt_help.png)
+
+**O ThreatTrack é uma ferramenta em constante adaptação e correção, fique a vontade para relatar qualquer problema**
