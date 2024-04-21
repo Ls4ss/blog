@@ -1,5 +1,5 @@
-name: "Bem vindo ao meu ᵇLOG"
-description: "Welcome to my ᵇLOG"
+name: "Bem vindo ao ᵇLOG"
+description: "Welcome to ᵇLOG"
 meta_description: "by: Lucas S."
 
 markdown: kramdown
@@ -7,12 +7,12 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
-domain_name: "ls4ss.me.log.br/blog/"
+domain_name: "me.log.br/blog/"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: "ls4ss.me.log.br/blog/"
+url: "me.log.br/blog/"
 author: "Lucas S."
 
 # Disqus config
