@@ -4,7 +4,7 @@ meta_description: "Ls4ss"
 
 markdown: kramdown
 highlighter: rouge
-logo: true
+logo: false
 paginate: 15
 baseurl: /
 domain_name: "lucassouza.io"
