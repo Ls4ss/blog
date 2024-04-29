@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: rouge
 logo: true
 paginate: 15
-baseurl: /
+baseurl: "https://lucassouza.io/blog"
 domain_name: "lucassouza.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
