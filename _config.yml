@@ -7,12 +7,12 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
-domain_name: "me.log.br/blog/"
+domain_name: "lucassouza.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: "me.log.br/blog/"
+url: "lucassouza.io/blog"
 author: "Lucas S."
 
 # Disqus config
