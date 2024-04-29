@@ -1,1 +1,1 @@
-# https://me.log.br/blog
+# https://lucassouza.io/blog
