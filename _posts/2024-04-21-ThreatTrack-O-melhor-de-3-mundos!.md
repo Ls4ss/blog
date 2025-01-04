@@ -2,7 +2,7 @@
 layout: post
 title:  "ThreatTrack - O melhor de 3 mundos (Shodan + ExploitDB + NVD)"
 date:   2024-04-21 14:00:00
-cover: /blog/assets/images/posts/ThreatTrack_Flow.gif
+cover: /lab/assets/images/posts/ThreatTrack_Flow.gif
 categories: PROJETO
 ---
 
