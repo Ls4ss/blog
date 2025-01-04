@@ -11,7 +11,7 @@ Esta pesquisa acadêmica teve como objetivo avaliar a aplicabilidade de informa�
 # Visualização do PDF
 
 <iframe 
-    src="/assets/docs/meu-arquivo.pdf" 
+    src="https://lucassouza.io/lab/assets/pdf/Fontes%20Abertas%20de%20Intelig%C3%AAncia%20(OSINT)_Estrat%C3%A9gias%20para%20Garantir%20a%20Integridade%20e%20Admissibilidade%20em%20Investiga%C3%A7%C3%B5es%20Forenses%20Digitais.pdf" 
     style="width: 100%; height: 90vh; border: none;" 
     title="Visualização do PDF">
 </iframe>
