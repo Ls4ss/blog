@@ -1,1 +1,1 @@
-# https://lucassouza.io/blog
+# https://lucassouza.io/lab
