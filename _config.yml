@@ -12,7 +12,7 @@ google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: "lucassouza.io/blog"
+url: "lucassouza.io/lab"
 author: "Lucas S."
 
 # Disqus config
